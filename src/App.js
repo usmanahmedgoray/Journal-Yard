@@ -26,7 +26,7 @@ const App =(props)=> {
     country : "us",
     pageSize : 12,
     NewsType : "top-headlines",
-    apiKey : "a645b9b1ed114fc1bde6e9118bd34756",
+    apiKey : "800cb717ea854334929034caf8c0c9aa",
     // a9bf92819ff74862b09104f21119a497
     // a645b9b1ed114fc1bde6e9118bd34756
     category : "general"
