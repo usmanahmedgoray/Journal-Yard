@@ -10,7 +10,7 @@ const Navbar = (props)=> {
     return (
       <nav className={`navbar navbar-expand-lg bg-warning fixed-top`} data-bs-theme="dark" >
         <div className="container-fluid">
-          <Link className={"navbar-brand text-dark fw-bold"} to="/">The Annals</Link>
+          <Link className={"navbar-brand text-dark fw-bold"} to="/">Journal yard</Link>
           <button className="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
             <span className="navbar-toggler-icon"></span>
           </button>
